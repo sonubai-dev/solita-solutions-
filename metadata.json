@@ -1,0 +1,6 @@
+{
+  "name": "Solita Solutions",
+  "description": "Solita Solutions builds AI-powered products, automation systems, software, and digital technology solutions for modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
